@@ -1,0 +1,14 @@
+{
+  "name": "nodeexpresshello",
+  "version": "1.0.0",
+  "description": "Este é um exemplo de aplicação web feita em express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Galvão Shimokawa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
